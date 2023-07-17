@@ -1,2 +1,1 @@
-# IBM-Applied-Data-Science-Capstone-SpaceX
-Projects
+SpaceX promotes Falcon 9 rocket launches on their site at $62 million, while other providers charge over $165 million due to SpaceX's ability to reuse the first stage. Therefore, accurately predicting a successful landing of the first stage allows estimating the launch cost. This insight is valuable to competitors seeking rocket launch contracts as it enables them to understand the cost advantage achieved by SpaceX through reusability. By knowing whether the first stage will land successfully, alternate companies can determine their competitive pricing strategies and improve their chances of securing contracts in the rocket launch market, potentially disrupting SpaceX's dominant position.
